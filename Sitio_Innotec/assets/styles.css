@@ -1,0 +1,47 @@
+html,body{
+   font-family: 'Raleway', sans-serif;
+   color: #FFFFFF;
+}
+
+.icono-navbar
+{
+    height: 70px;
+    background-color: #12AF98;
+}
+
+.slider
+{
+    height: 879px;
+    background-color: #1D71AA;
+}
+
+
+.servicios
+{
+    height: 600px;
+    background-color: #12AF98;
+}
+
+.equipos
+{
+    height: 400px;
+    background-color: #1D71AA;
+}
+
+.nosotros
+{
+    height: 400px;
+    background-color: #12AF98;
+}
+
+.contactos
+{
+    height: 400px;
+    background-color: #1D71AA;
+}
+
+.footer
+{
+    height: 70px;
+    background-color: #12AF98;
+}
