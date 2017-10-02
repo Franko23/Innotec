@@ -15,6 +15,7 @@ html,body{
 
 .slider
 {
+    margin-top: 10px;
     height: 879px;
     background-color: #1D71AA;
 }
