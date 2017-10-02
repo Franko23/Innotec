@@ -11,7 +11,6 @@ html,body{
     right: 0px;
     left: 0px;
     height: 100px;
-    position: fixed;
 }
 
 .slider
@@ -78,18 +77,16 @@ html,body{
 .navbar-default .navbar-nav li a
 {
     color: #FFFFFF;
-    border: 1px solid rgba(28, 179, 146, 0.82);
 }
 
 .navbar-default .navbar-nav li a:hover
 {
     color:  rgba(14, 236, 162, 0.82);
-    border: 1px solid #FFFFFF;
 }
 .navbar-default .navbar-nav > .active > a,
 .navbar-default .navbar-nav > .active > a:hover,
 .navbar-default .navbar-nav > .active > a:focus {
-color: #93ca3a;
+color: rgba(14, 236, 162, 0.82);
 background-color: transparent;
 }
 .navbar-default .navbar-toggle
@@ -99,7 +96,7 @@ background-color: transparent;
 }
 .navbar-default .navbar-toggle .icon-bar
 {
-    background: #93ca3a;
+    background: rgba(14, 236, 162, 0.82);
     border-color: transparent;
 }
 .navbar-default .navbar-toggle:hover,
