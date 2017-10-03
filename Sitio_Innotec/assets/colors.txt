@@ -1,0 +1,5 @@
+#2fb29f = Verde principal
+#2fa4b2 = Verde secundario
+#2f63b2 = Azul principal
+#2f84b2 = Azul secundario
+#f8f9fa = Background
