@@ -11,6 +11,17 @@ html,body{
     right: 0px;
     left: 0px;
     height: 100px;
+    font-weight: 400;
+}
+.navbar-dark .navbar-brand:focus, .navbar-dark .navbar-brand:hover {
+    color: #2fb29f;
+    font-weight: 400;
+}
+.container{
+
+}
+.container img{
+    padding: 10px;
 }
 
 .slider
@@ -62,12 +73,13 @@ html,body{
 }
 .navbar-default .navbar-brand
 {
-    color: rgba(14, 236, 162, 0.82);
+/*    color: rgba(14, 236, 162, 0.82);*/
+    color: #264263;
 }
 
 .navbar-default .navbar-brand:hover
 {
-    color:#FFFFFF;
+    color:#2fa4b2;
 }
 .navbar-default .navbar-nav li a
 {
@@ -77,12 +89,13 @@ html,body{
 
 .navbar-default .navbar-nav li a
 {
-    color: #FFFFFF;
+    color: #000000;
 }
 
 .navbar-default .navbar-nav li a:hover
 {
-    color:  rgba(14, 236, 162, 0.82);
+/*    color:  rgba(14, 236, 162, 0.82);*/
+    color: #2fa4b2;
 }
 .navbar-default .navbar-nav > .active > a,
 .navbar-default .navbar-nav > .active > a:hover,
